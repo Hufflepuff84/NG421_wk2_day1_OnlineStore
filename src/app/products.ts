@@ -5,7 +5,7 @@ export default[ {
   "reviews": 46,
   "rating": 2,
   "imgUrl": "http://dummyimage.com/136x167.bmp/cc0000/ffffff",
-  "price": "$95.11"
+  "price": "$195.11"
 }, {
   "id": 2,
   "name": "Topiramate",
@@ -13,7 +13,7 @@ export default[ {
   "reviews": 2,
   "rating": 2,
   "imgUrl": "http://dummyimage.com/125x134.jpg/cc0000/ffffff",
-  "price": "$37.09"
+  "price": "$237.09"
 }, {
   "id": 3,
   "name": "Almond",
@@ -21,7 +21,7 @@ export default[ {
   "reviews": 27,
   "rating": 5,
   "imgUrl": "http://dummyimage.com/149x190.jpg/dddddd/000000",
-  "price": "$51.83"
+  "price": "$351.83"
 }, {
   "id": 4,
   "name": "VYTORIN",
@@ -29,7 +29,7 @@ export default[ {
   "reviews": 60,
   "rating": 3,
   "imgUrl": "http://dummyimage.com/162x153.jpg/cc0000/ffffff",
-  "price": "$86.93"
+  "price": "$186.93"
 }, {
   "id": 5,
   "name": "Decolorized Iodine",
@@ -37,7 +37,7 @@ export default[ {
   "reviews": 20,
   "rating": 1,
   "imgUrl": "http://dummyimage.com/120x245.jpg/cc0000/ffffff",
-  "price": "$70.10"
+  "price": "$270.10"
 }, {
   "id": 6,
   "name": "Fresh Sugar Honey Tinted Lip Treatment SPF15",
@@ -45,7 +45,7 @@ export default[ {
   "reviews": 79,
   "rating": 3,
   "imgUrl": "http://dummyimage.com/211x227.bmp/5fa2dd/ffffff",
-  "price": "$39.25"
+  "price": "$139.25"
 }, {
   "id": 7,
   "name": "LBel",
@@ -53,7 +53,7 @@ export default[ {
   "reviews": 76,
   "rating": 3,
   "imgUrl": "http://dummyimage.com/212x144.jpg/ff4444/ffffff",
-  "price": "$99.91"
+  "price": "$399.91"
 }, {
   "id": 8,
   "name": "Cholestyramine",
@@ -61,7 +61,7 @@ export default[ {
   "reviews": 74,
   "rating": 3,
   "imgUrl": "http://dummyimage.com/204x175.jpg/5fa2dd/ffffff",
-  "price": "$67.17"
+  "price": "$167.17"
 }, {
   "id": 9,
   "name": "Risperidone",
@@ -69,7 +69,7 @@ export default[ {
   "reviews": 9,
   "rating": 1,
   "imgUrl": "http://dummyimage.com/212x108.bmp/cc0000/ffffff",
-  "price": "$96.84"
+  "price": "$196.84"
 }, {
   "id": 10,
   "name": "MAC",
@@ -77,5 +77,5 @@ export default[ {
   "reviews": 45,
   "rating": 2,
   "imgUrl": "http://dummyimage.com/189x109.png/cc0000/ffffff",
-  "price": "$74.37"
+  "price": "$274.37"
 }];
