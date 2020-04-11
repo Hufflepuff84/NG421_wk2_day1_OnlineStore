@@ -6,6 +6,10 @@ import { ProductDetailComponent } from './product-detail/product-detail.componen
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { ProductService } from './product.service';
+import product from './products';
+
+
 
 @NgModule({
   declarations: [
@@ -13,12 +17,13 @@ import { CarouselComponent } from './carousel/carousel.component';
     ProductDetailComponent,
     HeaderComponent,
     FooterComponent,
-    CarouselComponent
+    CarouselComponent,
+    
   ],
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [ ProductService ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
