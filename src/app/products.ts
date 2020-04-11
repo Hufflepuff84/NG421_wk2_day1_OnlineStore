@@ -17,7 +17,7 @@ export default[ {
 }, {
   "id": 3,
   "name": "Almond",
-  "description": "Tastes hummy",
+  "description": "Tastes yummy",
   "reviews": 27,
   "rating": 5,
   "imgUrl": "http://dummyimage.com/149x190.jpg/dddddd/000000",
