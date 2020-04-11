@@ -37,7 +37,7 @@ body {
 .ratings {
     padding-right: 10px;
     padding-left: 10px;
-    color: #d17581;
+    color: #ff0f2f;
 }
 
 .thumbnail {
@@ -46,7 +46,7 @@ body {
 
 .thumbnail .caption-full {
     padding: 9px;
-    color: #333;
+    color: rgb(37, 10, 189);
 }
 
 footer {
